@@ -1,1 +1,1 @@
-console.log("gd");
+console.log("hi. 지희");
